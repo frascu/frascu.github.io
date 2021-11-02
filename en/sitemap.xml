@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://scuccimarri.it/hugosite/</loc>
+    <loc>https://scuccimarri.it/</loc>
     <lastmod>2021-10-19T09:57:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://scuccimarri.it/hugosite/it/"
+                href="https://scuccimarri.it/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scuccimarri.it/hugosite/"
+                href="https://scuccimarri.it/"
                 />
   </url><url>
-    <loc>https://scuccimarri.it/hugosite/categories/</loc>
+    <loc>https://scuccimarri.it/categories/</loc>
     <lastmod>2021-10-19T09:57:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://scuccimarri.it/hugosite/it/categories/"
+                href="https://scuccimarri.it/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scuccimarri.it/hugosite/categories/"
+                href="https://scuccimarri.it/categories/"
                 />
   </url><url>
-    <loc>https://scuccimarri.it/hugosite/categories/first-category/</loc>
+    <loc>https://scuccimarri.it/categories/first-category/</loc>
     <lastmod>2021-10-19T09:57:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://scuccimarri.it/hugosite/it/categories/first-category/"
+                href="https://scuccimarri.it/it/categories/first-category/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scuccimarri.it/hugosite/categories/first-category/"
+                href="https://scuccimarri.it/categories/first-category/"
                 />
   </url><url>
-    <loc>https://scuccimarri.it/hugosite/tags/first-tag/</loc>
+    <loc>https://scuccimarri.it/tags/first-tag/</loc>
     <lastmod>2021-10-19T09:57:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://scuccimarri.it/hugosite/it/tags/first-tag/"
+                href="https://scuccimarri.it/it/tags/first-tag/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scuccimarri.it/hugosite/tags/first-tag/"
+                href="https://scuccimarri.it/tags/first-tag/"
                 />
   </url><url>
-    <loc>https://scuccimarri.it/hugosite/posts/my-first-post/</loc>
+    <loc>https://scuccimarri.it/posts/my-first-post/</loc>
     <lastmod>2021-10-19T09:57:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://scuccimarri.it/hugosite/it/posts/my-first-post/"
+                href="https://scuccimarri.it/it/posts/my-first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scuccimarri.it/hugosite/posts/my-first-post/"
+                href="https://scuccimarri.it/posts/my-first-post/"
                 />
   </url><url>
-    <loc>https://scuccimarri.it/hugosite/posts/</loc>
+    <loc>https://scuccimarri.it/posts/</loc>
     <lastmod>2021-10-19T09:57:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://scuccimarri.it/hugosite/it/posts/"
+                href="https://scuccimarri.it/it/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scuccimarri.it/hugosite/posts/"
+                href="https://scuccimarri.it/posts/"
                 />
   </url><url>
-    <loc>https://scuccimarri.it/hugosite/tags/</loc>
+    <loc>https://scuccimarri.it/tags/</loc>
     <lastmod>2021-10-19T09:57:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://scuccimarri.it/hugosite/it/tags/"
+                href="https://scuccimarri.it/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scuccimarri.it/hugosite/tags/"
+                href="https://scuccimarri.it/tags/"
                 />
   </url><url>
-    <loc>https://scuccimarri.it/hugosite/archives/</loc>
+    <loc>https://scuccimarri.it/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://scuccimarri.it/hugosite/it/archivio/"
+                href="https://scuccimarri.it/it/archivio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scuccimarri.it/hugosite/archives/"
+                href="https://scuccimarri.it/archives/"
                 />
   </url><url>
-    <loc>https://scuccimarri.it/hugosite/search/</loc>
+    <loc>https://scuccimarri.it/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://scuccimarri.it/hugosite/it/cerca/"
+                href="https://scuccimarri.it/it/cerca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scuccimarri.it/hugosite/search/"
+                href="https://scuccimarri.it/search/"
                 />
   </url>
 </urlset>

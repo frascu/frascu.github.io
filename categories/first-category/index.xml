@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>first-category on </title>
-    <link>https://scuccimarri.it/hugosite/categories/first-category/</link>
+    <link>https://scuccimarri.it/categories/first-category/</link>
     <description>Recent content in first-category on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Oct 2021 09:57:44 +0200</lastBuildDate><atom:link href="https://scuccimarri.it/hugosite/categories/first-category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 09:57:44 +0200</lastBuildDate><atom:link href="https://scuccimarri.it/categories/first-category/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://scuccimarri.it/hugosite/posts/my-first-post/</link>
+      <link>https://scuccimarri.it/posts/my-first-post/</link>
       <pubDate>Tue, 19 Oct 2021 09:57:44 +0200</pubDate>
       
-      <guid>https://scuccimarri.it/hugosite/posts/my-first-post/</guid>
+      <guid>https://scuccimarri.it/posts/my-first-post/</guid>
       <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.</description>
     </item>
     
