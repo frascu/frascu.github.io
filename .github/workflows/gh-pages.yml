@@ -34,7 +34,7 @@ jobs:
       - name: Build
         run: hugo --buildDrafts --gc --verbose --minify
         
-      - nane: Set DNS
+      - name: Set DNS
         run: cp CNAME ./public/CNAME
 
       - name: Deploy
