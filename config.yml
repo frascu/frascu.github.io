@@ -1,6 +1,6 @@
 baseURL: https://scuccimarri.it/
 languageCode: en-us
-title: 
+title: "Francesco Scuccimarri"
 theme: "PaperMod"
 
 enableInlineShortcodes: true
@@ -112,6 +112,8 @@ params:
   ShowToc: true
   comments: false
   #images: ["papermod-cover.png"]
+  label:
+    text: ">" #empty
 
   profileMode:
       enabled: true
@@ -136,10 +138,13 @@ params:
       url: "https://github.com/frascu"
     - name: "gitlab"
       url: "https://gitlab.com/frascu"
+    - name: "hackerrank"
+      url: "https://hackerrank.com/frascu"
     - name: "email"
       url: "mailto:francesco@scuccimarri.it"
     - name: "discord"
       url: "https://discordapp.com/users/frascu#4011"
-
+    - name: "telegram"
+      url: "https://t.me/frascu"
   assets:
     favicon: "favicon.png"
