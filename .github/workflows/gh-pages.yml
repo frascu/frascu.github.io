@@ -35,7 +35,7 @@ jobs:
         run: hugo --buildDrafts --gc --verbose --minify
         
       - name: Set DNS
-        run: cp CNAME ./public/CNAME
+        run: echo "scuccimarri.it" > ./public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
