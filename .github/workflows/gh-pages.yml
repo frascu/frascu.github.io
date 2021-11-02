@@ -33,6 +33,9 @@ jobs:
 
       - name: Build
         run: hugo --buildDrafts --gc --verbose --minify
+        
+      - nane: Set DNS
+        run: cp CNAME ./public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
