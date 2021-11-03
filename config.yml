@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-# googleAnalytics: UA-123-45
+googleAnalytics: G-S1ZZZ6MGED
 
 minify:
     disableXML: true
@@ -96,7 +96,7 @@ outputs:
         - JSON
 
 params:
-  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Francesco Succimarri's website"
   author: "Francesco Scuccimarri"
 
