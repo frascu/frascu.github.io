@@ -104,7 +104,7 @@ params:
   description: "Francesco Succimarri's website"
   author: "Francesco Scuccimarri"
 
-  defaultTheme: auto
+  defaultTheme: dark
   disableThemeToggle: false
   ShowShareButtons: true
   ShowReadingTime: true
