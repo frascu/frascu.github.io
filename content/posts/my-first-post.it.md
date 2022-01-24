@@ -1,11 +1,11 @@
 ---
-title: "My First Post"
+title: "Il mio primo articolo sul mio blog"
 date: 2021-10-19T09:57:44+02:00
-draft: true
+draft: false
 tags: ["first-tag"]
 categories: ["first-category"]
-cover:
-    image: https://9cover.com/images/ccovers/1465155022linux-technology.jpg
+#cover:
+#    image: https://9cover.com/images/ccovers/1465155022linux-technology.jpg
 
 ---
 

@@ -1,5 +1,5 @@
 baseURL: https://scuccimarri.it/
-languageCode: en-us
+languageCode: it-it
 title: "Francesco Scuccimarri"
 theme: "PaperMod"
 
@@ -15,11 +15,12 @@ minify:
     disableXML: true
     #minifyOutput: true
 
+# defaultContentLanguage: "it"
 
 languages:
   en:
     languageName: ":gb:"
-    weight: 1
+    weight: 2
     profileMode:
       enabled: true
       title: "Francesco Scuccimarri" # optional default will be site title
@@ -28,34 +29,35 @@ languages:
       imageTitle: "Immagine personale" # optional
       imageWidth: 300 # custom size
       imageHeight: 300 # custom size
+      #buttons:
+      #  - name: Curriculum
+      #    url: "/archives"
     # menu:
-    #    main:
+    #   main:
           # - identifier: home
           #   name: Home
           #   weight: 1
           # - identifier: posts
-          #  name: Posts
-          #  url: /posts/
-          #  weight: 2
+          #   name: Posts
+          #   url: /posts/
+          #   weight: 2
           # - identifier: categories
-          #  name: Categories
-          #  url: /categories/
-          #  weight: 3
-          # - identifier: tags
-          #   name: Tags
-          #   url: /tags/
+          #   name: Categories
+          #   url: /categories/
           #   weight: 3
-          # - identifier: archives
-          #   name: Archive
-          #   url: /archives/
-          #   weight: 4
           # - name: Search
           #   url: /search/
-          #   weight: 5
+          #   weight: 4
+        #- identifier: tags
+        #  name: Tag
+        #  url: /tags/
+        #- identifier: archives
+        #  name: Archivio
+        #  url: /archives/
   it:
     languageName: ":it:"
     languageAltTitle: Italiano
-    weight: 2
+    weight: 1
     profileMode:
       enabled: true
       title: "Francesco Scuccimarri" # optional default will be site title
@@ -64,29 +66,31 @@ languages:
       imageTitle: "Immagine personale" # optional
       imageWidth: 300 # custom size
       imageHeight: 300 # custom size
+      #buttons:
+      #  - name: Curriculum
+      #    url: "/archives"
     # menu:
     #   main:
-    #     - identifier: home
-    #       name: Home
-    #       weight: 1
+        # - identifier: home
+        #   name: Home
+        #   weight: 1
         # - identifier: posts
         #   name: Articoli
         #   url: /posts/
         #   weight: 2
-        #- identifier: categories
-        #  name: Categories
-        #  url: /categories/
-        #  weight: 3
-        # - identifier: tags
-        #   name: Tag
-        #   url: /tags/
+        # - identifier: categorie
+        #   name: Categorie
+        #   url: /categories/
         #   weight: 3
-        # - identifier: archives
-        #   name: Archivio
-        #   url: /archivio/
-        #   weight: 4
         # - name: Cerca
-        #   url: /cerca/
+        #   url: /search/
+        #   weight: 4
+        #- identifier: tags
+        #  name: Tag
+        #  url: /tags/
+        #- identifier: archives
+        #  name: Archivio
+        #  url: /archives/
 
 
 outputs:
@@ -113,7 +117,7 @@ params:
   comments: false
   #images: ["papermod-cover.png"]
   label:
-    text: ">" #empty
+    text: " " #empty
 
   profileMode:
       enabled: true
@@ -123,13 +127,6 @@ params:
       imageTitle: "Immagine personale" # optional
       imageWidth: 300 # custom size
       imageHeight: 300 # custom size
-      #buttons:
-      #  - name: Archives
-      #    url: "/archives"
-      #  - name: Archive
-      #    url: "/archive"
-      #  - name: Github
-      #    url: "https://github.com/"
 
   socialIcons: # optional
     - name: "linkedin"
@@ -146,5 +143,7 @@ params:
       url: "https://discordapp.com/users/750307902060888135"
     - name: "telegram"
       url: "https://t.me/frascu"
+    #- name: "goodreads"
+    #  url: "https://www.goodreads.com/frascu"
   assets:
     favicon: "favicon.png"
