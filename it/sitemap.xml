@@ -93,7 +93,7 @@
                 href="https://scuccimarri.it/it/tags/"
                 />
   </url><url>
-    <loc>https://scuccimarri.it/it/archivio/</loc>
+    <loc>https://scuccimarri.it/it/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -102,10 +102,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://scuccimarri.it/it/archivio/"
+                href="https://scuccimarri.it/it/archives/"
                 />
   </url><url>
-    <loc>https://scuccimarri.it/it/cerca/</loc>
+    <loc>https://scuccimarri.it/it/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -114,7 +114,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://scuccimarri.it/it/cerca/"
+                href="https://scuccimarri.it/it/search/"
                 />
   </url>
 </urlset>
