@@ -104,6 +104,7 @@ params:
   description: "Francesco Succimarri's website"
   author: "Francesco Scuccimarri"
 
+  #cookieEnabled: true
   defaultTheme: dark
   disableThemeToggle: false
   ShowShareButtons: true
@@ -139,13 +140,13 @@ params:
       url: "https://stackoverflow.com/users/2526969/frascu"
     - name: "hackerrank"
       url: "https://hackerrank.com/frascu"
+    - name: "twitter"
+      url: "https://twitter.com/fra_scu"
     #- name: "email"
     #  url: "mailto:francesco@scuccimarri.it"
     - name: "discord"
       url: "https://discordapp.com/users/750307902060888135"
     - name: "telegram"
       url: "https://t.me/frascu"
-    #- name: "goodreads"
-    #  url: "https://www.goodreads.com/frascu"
   assets:
     favicon: "favicon.png"
