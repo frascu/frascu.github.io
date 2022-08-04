@@ -104,7 +104,7 @@ params:
   description: "Francesco Succimarri's website"
   author: "Francesco Scuccimarri"
 
-  #cookieEnabled: true
+  cookieEnabled: false
   defaultTheme: dark
   disableThemeToggle: false
   ShowShareButtons: true
