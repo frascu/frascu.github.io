@@ -80,6 +80,19 @@
                 href="https://scuccimarri.it/it/posts/my-first-post/"
                 />
   </url><url>
+    <loc>https://scuccimarri.it/it/privacy/</loc>
+    <lastmod>2021-10-19T09:57:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://scuccimarri.it/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://scuccimarri.it/it/privacy/"
+                />
+  </url><url>
     <loc>https://scuccimarri.it/it/tags/</loc>
     <lastmod>2021-10-19T09:57:44+02:00</lastmod>
     <xhtml:link
