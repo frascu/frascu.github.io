@@ -148,5 +148,7 @@ params:
       url: "https://discordapp.com/users/750307902060888135"
     - name: "telegram"
       url: "https://t.me/frascu"
+    - name: "matrix"
+      url: "https://matrix.to/#/@frascu:matrix.org"
   assets:
     favicon: "favicon.png"
