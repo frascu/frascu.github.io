@@ -1,5 +1,5 @@
 ---
-title: "My first post"
+title: "Il mio primo articolo su questo blog"
 date: 2023-01-04T18:46:56+01:00
 draft: false
 tags: ["fake-tag"]
