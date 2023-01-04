@@ -1,12 +1,12 @@
 ---
-title: "My first post on my blog"
-date: 2021-10-19T09:57:44+02:00
+title: "My first post"
+date: 2023-01-04T18:46:56+01:00
 draft: false
-tags: ["first-tag"]
-categories: ["first-category"]
+tags: ["fake-tag"]
+categories: ["fake-category"]
 cover:
-    # image: https://9cover.com/images/ccovers/1465155022linux-technology.jpg
-
+    image: https://www.sololibri.net/IMG/arton149041.png
+images: ["https://www.sololibri.net/IMG/arton149041.png"]
 ---
 
 

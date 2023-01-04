@@ -1,6 +1,6 @@
 baseURL: https://frascu.github.io
 languageCode: it-it
-title: "Francesco Scuccimarri"
+#title: ""
 theme: "PaperMod"
 
 enableInlineShortcodes: true
@@ -15,15 +15,17 @@ minify:
     disableXML: true
     #minifyOutput: true
 
-# defaultContentLanguage: "it"
+defaultContentLanguage: "it"
 
 languages:
   en:
-    languageName: ":gb:"
+    languageName: English
+    languageAltTitle: English
     weight: 2
+    title: "frascu's blog"
     profileMode:
       enabled: true
-      title: "Francesco Scuccimarri" # optional default will be site title
+      title: "frascu" # optional default will be site title
       subtitle: "Software Developer"
       imageUrl: "https://www.gravatar.com/avatar/416a7beaf9a43ae17bd3a27b5d0e942c?s=300" # optional
       imageTitle: "Immagine personale" # optional
@@ -32,22 +34,22 @@ languages:
       #buttons:
       #  - name: Curriculum
       #    url: "/archives"
-    # menu:
-    #   main:
-          # - identifier: home
-          #   name: Home
-          #   weight: 1
-          # - identifier: posts
-          #   name: Posts
-          #   url: /posts/
-          #   weight: 2
-          # - identifier: categories
-          #   name: Categories
-          #   url: /categories/
-          #   weight: 3
-          # - name: Search
-          #   url: /search/
-          #   weight: 4
+    menu:
+      main:
+        - identifier: home
+          name: Home
+          weight: 1
+        - identifier: posts
+          name: Blog
+          url: /blog
+          weight: 2
+        #- identifier: categories
+        #  name: Categories
+        #  url: /categories/
+        #  weight: 3
+        #- name: Search
+        #  url: /search/
+        #  weight: 4
         #- identifier: tags
         #  name: Tag
         #  url: /tags/
@@ -55,13 +57,14 @@ languages:
         #  name: Archivio
         #  url: /archives/
   it:
-    languageName: ":it:"
+    languageName: Italiano
     languageAltTitle: Italiano
     weight: 1
+    title: "Il blog di frascu"
     profileMode:
       enabled: true
-      title: "Francesco Scuccimarri" # optional default will be site title
-      subtitle: "Sviluppatore di Software"
+      title: "frascu" # optional default will be site title
+      subtitle: "Software Developer"
       imageUrl: "https://www.gravatar.com/avatar/416a7beaf9a43ae17bd3a27b5d0e942c?s=300" # optional
       imageTitle: "Immagine personale" # optional
       imageWidth: 300 # custom size
@@ -69,22 +72,22 @@ languages:
       #buttons:
       #  - name: Curriculum
       #    url: "/archives"
-    # menu:
-    #   main:
-        # - identifier: home
-        #   name: Home
-        #   weight: 1
-        # - identifier: posts
-        #   name: Articoli
-        #   url: /posts/
-        #   weight: 2
-        # - identifier: categorie
-        #   name: Categorie
-        #   url: /categories/
-        #   weight: 3
-        # - name: Cerca
-        #   url: /search/
-        #   weight: 4
+    menu:
+      main:
+        - identifier: home
+          name: Home
+          weight: 1
+        - identifier: posts
+          name: Blog
+          url: /blog
+          weight: 2
+        #- identifier: categorie
+        #  name: Categorie
+        #  url: /categories/
+        #  weight: 3
+        #- name: Cerca
+        #  url: /search/
+        #  weight: 4
         #- identifier: tags
         #  name: Tag
         #  url: /tags/
@@ -94,15 +97,15 @@ languages:
 
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Francesco Succimarri's website"
-  author: "Francesco Scuccimarri"
+  description: "frascu's blog"
+  author: "frascu"
 
   cookieBannerEnabled: false
   defaultTheme: dark
@@ -121,13 +124,13 @@ params:
     text: " " #empty
 
   profileMode:
-      enabled: true
-      title: "Francesco Scuccimarri" # optional default will be site title
-      subtitle: "Software Developer"
-      imageUrl: "me.jpg" # optional
-      imageTitle: "Immagine personale" # optional
-      imageWidth: 300 # custom size
-      imageHeight: 300 # custom size
+    enabled: true
+    title: "frascu" # optional default will be site title
+    subtitle: "Software Developer"
+    imageUrl: "me.jpg" # optional
+    imageTitle: "Immagine personale" # optional
+    imageWidth: 300 # custom size
+    imageHeight: 300 # custom size
 
   socialIcons: # optional
     - name: "linkedin"
