@@ -43,13 +43,13 @@ languages:
           name: Blog
           url: /blog
           weight: 2
+        - name: Search
+          url: /search
+          weight: 3
         #- identifier: categories
         #  name: Categories
         #  url: /categories/
         #  weight: 3
-        #- name: Search
-        #  url: /search/
-        #  weight: 4
         #- identifier: tags
         #  name: Tag
         #  url: /tags/
@@ -81,6 +81,9 @@ languages:
           name: Blog
           url: /blog
           weight: 2
+        - name: Cerca
+          url: /search
+          weight: 3
         #- identifier: categorie
         #  name: Categorie
         #  url: /categories/
