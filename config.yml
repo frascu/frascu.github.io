@@ -141,7 +141,7 @@ params:
     - name: "hackerrank"
       url: "https://hackerrank.com/frascu"
     - name: "twitter"
-      url: "https://twitter.com/fra_scu"
+      url: "https://twitter.com/frascu_dev"
     - name: "mastodon"
       url: "https://mastodon.uno/web/@frascu"
     #- name: "email"
