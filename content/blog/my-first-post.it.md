@@ -34,7 +34,7 @@ Io adoro lo sviluppo backend, un po' meno quello frontend (se non sai le differe
 
 Nel mio caso vuol dire che non mi interessa dare una grafica personalizzata a questo blog, ma voglio concentrarmi sui contenuti. È per questo che ho optato per un generatore di siti statici, per la precisione ho scelto [Hugo](https://gohugo.io/) e il tema [PaperMod](https://github.com/adityatelange/hugo-PaperMod/).
 
-Ho la possibilità di scrivere questo articolo in semplice [Markdown](https://www.markdownguide.org/) usando diversi strumenti come [Visual Studio Code](https://code.visualstudio.com/), [Notion](https://www.notion.so/) o il neonato [obsidian](https://obsidian.md/), fare un commit col mio amato [git](https://git-scm.com/), un push sul repository remoto (in questo caso [GitHub](https://github.com/)) e via con la [GitHub Action](https://github.com/features/actions) che rende il mio contenuto online e disponibile al volo.
+Ho la possibilità di scrivere questo articolo in semplice [Markdown](https://www.markdownguide.org/) usando diversi strumenti come [Visual Studio Code](https://code.visualstudio.com/), [Notion](https://www.notion.so/) o il neonato [obsidian](https://obsidian.md/), fare un commit col mio amato [git](https://git-scm.com/), fare un push sul repository remoto (in questo caso [GitHub](https://github.com/)) e via con la [GitHub Action](https://github.com/features/actions) che rende il mio contenuto online e disponibile al volo.
 
 Ho deciso di non usare Wordpress, che tra l'altro so usare ed è comunque semplice.
 

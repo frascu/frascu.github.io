@@ -19,7 +19,7 @@ defaultContentLanguage: "it"
 
 languages:
   en:
-    languageName: English
+    languageName: ":gb:"
     languageAltTitle: English
     weight: 2
     title: "frascu's blog"
@@ -57,7 +57,7 @@ languages:
         #  name: Archivio
         #  url: /archives/
   it:
-    languageName: Italiano
+    languageName: ":it:"
     languageAltTitle: Italiano
     weight: 1
     title: "Il blog di frascu"
@@ -110,7 +110,7 @@ params:
   description: "frascu's blog"
   author: "frascu"
 
-  cookieBannerEnabled: false
+  cookieBannerEnabled: true
   defaultTheme: dark
   disableThemeToggle: false
   ShowShareButtons: true
