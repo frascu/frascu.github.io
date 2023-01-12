@@ -4,7 +4,7 @@ date: 2021-10-19T09:57:44+02:00
 draft: false
 ---
 
-I collect usage data using google analytics for the purposes of visualizing the traffic on this website.
+I collect usage data using [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics) for the purposes of visualizing the traffic on this website.
 
 All data is anonymized and I do not sell or share any data with third parties.
 
