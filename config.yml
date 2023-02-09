@@ -131,7 +131,7 @@ params:
 
   socialIcons: # optional
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/francesco-scuccimarri/"
+      url: "https://www.linkedin.com/in/frascu"
     - name: "github"
       url: "https://github.com/frascu"
     - name: "gitlab"
