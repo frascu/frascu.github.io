@@ -24,7 +24,7 @@ languages:
     profileMode:
       enabled: true
       title: "Francesco Scuccimarri" # optional default will be site title
-      subtitle: "Software Developer"
+      subtitle: "Software Engineer"
       imageUrl: "https://www.gravatar.com/avatar/416a7beaf9a43ae17bd3a27b5d0e942c?s=300" # optional
       imageTitle: "Immagine personale" # optional
       imageWidth: 300 # custom size
@@ -61,7 +61,7 @@ languages:
     profileMode:
       enabled: true
       title: "Francesco Scuccimarri" # optional default will be site title
-      subtitle: "Sviluppatore di Software"
+      subtitle: "Software Engineer"
       imageUrl: "https://www.gravatar.com/avatar/416a7beaf9a43ae17bd3a27b5d0e942c?s=300" # optional
       imageTitle: "Immagine personale" # optional
       imageWidth: 300 # custom size
