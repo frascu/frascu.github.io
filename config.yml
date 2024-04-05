@@ -143,7 +143,7 @@ params:
     - name: "twitter"
       url: "https://twitter.com/frascu_dev"
     - name: "mastodon"
-      url: "https://mastodon.uno/web/@frascu"
+      url: "https://mastodon.uno/@frascu"
     #- name: "email"
     #  url: "mailto:francesco@scuccimarri.it"
     # - name: "discord"
