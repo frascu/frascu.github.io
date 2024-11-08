@@ -4,17 +4,16 @@
     <title>Categorie on Francesco Scuccimarri</title>
     <link>https://frascu.github.io/it/categories/</link>
     <description>Recent content in Categorie on Francesco Scuccimarri</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 19 Oct 2021 09:57:44 +0200</lastBuildDate><atom:link href="https://frascu.github.io/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 09:57:44 +0200</lastBuildDate>
+    <atom:link href="https://frascu.github.io/it/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First-Category</title>
       <link>https://frascu.github.io/it/categories/first-category/</link>
       <pubDate>Tue, 19 Oct 2021 09:57:44 +0200</pubDate>
-      
       <guid>https://frascu.github.io/it/categories/first-category/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

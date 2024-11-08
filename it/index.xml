@@ -4,30 +4,25 @@
     <title>Francesco Scuccimarri</title>
     <link>https://frascu.github.io/it/</link>
     <description>Recent content on Francesco Scuccimarri</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 19 Oct 2021 09:57:44 +0200</lastBuildDate><atom:link href="https://frascu.github.io/it/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 09:57:44 +0200</lastBuildDate>
+    <atom:link href="https://frascu.github.io/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Il mio primo articolo sul mio blog</title>
       <link>https://frascu.github.io/it/posts/my-first-post/</link>
       <pubDate>Tue, 19 Oct 2021 09:57:44 +0200</pubDate>
-      
       <guid>https://frascu.github.io/it/posts/my-first-post/</guid>
-      <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.</description>
+      <description>&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &amp;ldquo;Lorem ipsum dolor sit amet..&amp;rdquo;, comes from a line in section 1.10.32.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Privacy</title>
       <link>https://frascu.github.io/it/privacy/</link>
       <pubDate>Tue, 19 Oct 2021 09:57:44 +0200</pubDate>
-      
       <guid>https://frascu.github.io/it/privacy/</guid>
-      <description>Raccogliamo i dati di utilizzo utilizzando Google Analytics allo scopo di visualizzare il traffico su questo sito web.
-Tutti i dati sono resi anonimi e non vendiamo o condividiamo alcun dato con terzi.
-Se si sceglie di negare, nessuna informazione sarà raccolta in alcun modo.</description>
+      <description>&lt;p&gt;Raccogliamo i dati di utilizzo utilizzando Google Analytics allo scopo di visualizzare il traffico su questo sito web.&lt;/p&gt;
+&lt;p&gt;Tutti i dati sono resi anonimi e non vendiamo o condividiamo alcun dato con terzi.&lt;/p&gt;
+&lt;p&gt;Se si sceglie di negare, nessuna informazione sarà raccolta in alcun modo.&lt;/p&gt;</description>
     </item>
-    
-    
-    
   </channel>
 </rss>
